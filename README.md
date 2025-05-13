@@ -130,7 +130,7 @@ rd /s /q "C:\Windows\ServiceProfiles\LocalService\AppData\Local\Microsoft\NGC"
 
 ## 💬 Reflections
 
-> “I didn’t realize I was handling the only working copy of a software environment holding a company’s \$500,000 operational process together — until it was already infected, locked, and corrupted.”
+> “I didn’t realize I was handling the only working copy of a software environment holding a company’s 6 digit operational process together — until it was already infected, locked, and corrupted.”
 
 > This project turned into a digital minefield that required caution, improvisation, and a lot of offline ingenuity. I navigated it all without a wipe and with total data preservation.
 

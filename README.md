@@ -76,7 +76,7 @@ reg unload HKLM\BROKENSYS
 
 ### 🔹 Step 5: System File Check
 
-* Ran `sfc /scannow` → Found integrity violations
+* Ran `sfc /verifyonly` → Found integrity violations
 * Ran offline `DISM /RestoreHealth` using a matching Windows 11 ISO as the source
 * Re-ran `sfc` → **Successfully repaired system files**
 
